@@ -8,4 +8,5 @@ Geofence Check: Determines if the user is within the predefined distance thresho
 
 
 here at the end i succesfully created shapefile and geofence
+![Screenshot 2024-11-09 155643](https://github.com/user-attachments/assets/f229d520-3113-4be5-b0db-68e12adea5c4)
 
